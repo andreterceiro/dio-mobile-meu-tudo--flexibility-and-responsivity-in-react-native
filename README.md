@@ -20,3 +20,5 @@ Is simple to understand, see this code:
     </View>
 </View>
 ```
+
+The outer <View /> component has 2 childrens, a <Text /> and another <View>. The inner <View> has 2 <Text /> components as children and is children of the outer <View />. And you can apply the same idea for the other components.
