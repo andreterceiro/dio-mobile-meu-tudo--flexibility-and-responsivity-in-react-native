@@ -1,3 +1,5 @@
 # Introduction
 
 Teacher said that in web we have organization in flexbox model and organization in grid layout model (as used by Bootstrap).
+
+Teacher also said that flexfox is default and you have no aditional declarations in your code to use flexbox.
