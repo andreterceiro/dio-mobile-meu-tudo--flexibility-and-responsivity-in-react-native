@@ -66,3 +66,7 @@ Explanation: the red box will get all vertical area not occupied by the blue box
 The same concept is valid if you increase the height of the blue box:
 
 ![increasing the height of the blue box](images/increasing-the-height-of-the-blue-box.png)
+
+And if you add "flex: 1" to the style configuration of the blue blox?
+
+![flex: 1 in the blue box](images/flex-1-in-the-blue-box.png)
