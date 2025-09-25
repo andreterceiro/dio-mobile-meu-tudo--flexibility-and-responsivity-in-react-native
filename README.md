@@ -45,3 +45,8 @@ import {View} from 'react-native';
 Result in emulator:
 
 ![result in emulator](images/result-in-emulator.png)
+
+
+# Flex
+
+As you know and you could see in the previous example, you need to encapsulate the inner boxes in an outer box. You need to have only a father component in the application.
