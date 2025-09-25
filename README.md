@@ -65,4 +65,4 @@ Explanation: the red box will get all vertical area not occupied by the blue box
 
 The same concept is valid if you increase the height of the blue box:
 
-![increasing the height of the blue box](increasing-the-height-of-the-blue-box.png)
+![increasing the height of the blue box](images/increasing-the-height-of-the-blue-box.png)
