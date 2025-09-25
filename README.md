@@ -41,3 +41,7 @@ And as in this example we use <View /> inside of the function, please remember t
 ```
 import {View} from 'react-native';   
 ```
+
+Result in emulator:
+
+![result in emulator](images/result-in-emulator.png)
