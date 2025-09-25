@@ -62,3 +62,7 @@ And you can also insert "Flex: 1" in one of the boxes:
 ![inserting Flex: 1 in one of the boxes](images/inserting-flex-1-in-one-of-the-boxes.png)
 
 Explanation: the red box will get all vertical area not occupied by the blue box.
+
+The same concept is valid if you increase the height of the blue box:
+
+![increasing the height of the blue box](increasing-the-height-of-the-blue-box.png)
