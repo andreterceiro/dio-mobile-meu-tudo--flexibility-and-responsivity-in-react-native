@@ -50,3 +50,7 @@ Result in emulator:
 # Flex
 
 As you know and you could see in the previous example, you need to encapsulate the inner boxes in an outer box. You need to have only a father component in the application.
+
+And if you remove "Flex: 1" from the style configuration of the container?
+
+![removing flex: 1 of the container](images/removing-flex-1-of-the-container.png)
