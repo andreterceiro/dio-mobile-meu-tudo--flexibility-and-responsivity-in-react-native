@@ -22,3 +22,8 @@ Is simple to understand, see this code:
 ```
 
 The outer <View /> component has 2 childrens, a <Text /> and another <View>. The inner <View> has 2 <Text /> components as children and is children of the outer <View />. And you can apply the same idea for the other components.
+
+
+# Simple example with two boxes
+
+Please see this simple example. In this example teacher draw 2 boxes in the screen, one red and another blue. These boxes were aligned vertically.
