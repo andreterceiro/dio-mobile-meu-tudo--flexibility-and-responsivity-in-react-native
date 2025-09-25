@@ -51,15 +51,15 @@ Result in emulator:
 
 As you know and you could see in the previous example, you need to encapsulate the inner boxes in an outer box. You need to have only a father component in the application.
 
-And if you remove "Flex: 1" from the style configuration of the container?
+And if you remove "flex: 1" from the style configuration of the container?
 
 ![removing flex: 1 of the container](images/removing-flex-1-of-the-container.png)
 
 Note: as you could see, the external container have a purple border **in this test** (not early).
 
-And you can also insert "Flex: 1" in one of the boxes:
+And you can also insert "flex: 1" in one of the boxes:
 
-![inserting Flex: 1 in one of the boxes](images/inserting-flex-1-in-one-of-the-boxes.png)
+![inserting flex: 1 in one of the boxes](images/inserting-flex-1-in-one-of-the-boxes.png)
 
 Explanation: the red box will get all vertical area not occupied by the blue box.
 
