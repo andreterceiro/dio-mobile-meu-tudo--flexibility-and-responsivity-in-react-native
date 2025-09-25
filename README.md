@@ -31,3 +31,5 @@ Please see this simple example. In this example teacher draw 2 boxes in the scre
 See that the boxes was drawn with <View /> components. Please remember the basic structure. We have to define a function first (one of each box). Part of the code of this example, defining one ot the two functions:
 
 ![example with two boxes](images/example-with-two-boxes.png)
+
+After, you have to use the component created with the function.
