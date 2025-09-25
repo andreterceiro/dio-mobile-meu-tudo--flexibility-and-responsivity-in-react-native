@@ -32,4 +32,6 @@ See that the boxes was drawn with <View /> components. Please remember the basic
 
 ![example with two boxes](images/example-with-two-boxes.png)
 
-After, you have to use the component created with the function.
+After, you have to use the component created with the function:
+
+![using the components created with the functions](images/using-the-components-created-with-the-functions.png)
