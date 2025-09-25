@@ -35,3 +35,5 @@ See that the boxes was drawn with <View /> components. Please remember the basic
 After, you have to use the component created with the function:
 
 ![using the components created with the functions](images/using-the-components-created-with-the-functions.png)
+
+And as in this example we use <View /> inside of the function, please remember to import the <View /> component.
