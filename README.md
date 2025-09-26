@@ -70,3 +70,7 @@ The same concept is valid if you increase the height of the blue box:
 And if you add "flex: 1" to the style configuration of the blue blox?
 
 ![flex: 1 in the blue box](images/flex-1-in-the-blue-box.png)
+
+And to blue box as example fill all the horizontal area, please change the width configuration in style confuguration, see:
+
+![width 100% in blue box](images/blue-box-width-100-pct.png)
