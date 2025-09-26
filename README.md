@@ -76,3 +76,7 @@ And to blue box as example fill all the horizontal area, please change the width
 ![width 100% in blue box](images/blue-box-width-100-pct.png)
 
 As you could see, when teacher did not specify the unit (like "%") it was similar to pixels (px).
+
+And if you have 4 boxes aligned vertically, each will use 25% of the area:
+
+![4 boxes](images/4-boxes.png)
