@@ -96,3 +96,4 @@ As final comments of the teacher, he said:
 
 - That with flexbox you can have responsivity in your app without making calcs related to area, pixels etc;
 - He showed us [this site](https://flexboxfroggy.com/) to make calculations related to flexbox;
+- Teacher also commented that you have to keep in mind that stylezation in web (CSS) separes words with dashes and in React Native world camel case is used;
