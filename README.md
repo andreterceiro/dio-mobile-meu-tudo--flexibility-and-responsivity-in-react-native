@@ -84,3 +84,14 @@ And if you have 4 boxes aligned vertically, each will use 25% of the area:
 And if you have 2 boxes with height of 100 and 1 blue box with flex: 1 configuration:
 
 ![3 boxes](images/3-boxes.png)
+
+
+
+
+
+
+# Final comments
+
+As final comments of the teacher, he said:
+
+- That with flexbox you can have responsivity in your app without making calcs related to area, pixels etc;
