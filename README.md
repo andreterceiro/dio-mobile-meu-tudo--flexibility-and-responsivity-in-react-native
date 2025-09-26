@@ -98,4 +98,9 @@ As final comments of the teacher, he said:
 - He showed us [this site](https://flexboxfroggy.com/) to make calculations related to flexbox;
 - Teacher also commented that you have to keep in mind that stylezation in web (CSS) separes words with dashes and in React Native world camel case is used;
 - And that in web the default related to direction is row and in React Native is column;
-- And that we can have containers and childs
+- And that we can have containers and childs.
+
+
+# Repository related to the classes
+
+[link](https://github.com/digitalinnovationone/trilha-react-native-flexbox)
