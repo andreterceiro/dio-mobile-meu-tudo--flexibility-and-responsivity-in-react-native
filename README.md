@@ -80,3 +80,7 @@ As you could see, when teacher did not specify the unit (like "%") it was simila
 And if you have 4 boxes aligned vertically, each will use 25% of the area:
 
 ![4 boxes](images/4-boxes.png)
+
+And if you have 2 boxes with height of 100 and 1 blue box with flex: 1 configuration:
+
+![3 boxes](images/3-boxes.png)
