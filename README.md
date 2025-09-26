@@ -74,3 +74,5 @@ And if you add "flex: 1" to the style configuration of the blue blox?
 And to blue box as example fill all the horizontal area, please change the width configuration in style confuguration, see:
 
 ![width 100% in blue box](images/blue-box-width-100-pct.png)
+
+As you could see, when teacher did not specify the unit (like "%") it was similar to pixels (px).
