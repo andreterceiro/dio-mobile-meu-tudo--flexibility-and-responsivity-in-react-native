@@ -95,3 +95,4 @@ And if you have 2 boxes with height of 100 and 1 blue box with flex: 1 configura
 As final comments of the teacher, he said:
 
 - That with flexbox you can have responsivity in your app without making calcs related to area, pixels etc;
+- He showed us [this site](https://flexboxfroggy.com/) to make calculations related to flexbox;
