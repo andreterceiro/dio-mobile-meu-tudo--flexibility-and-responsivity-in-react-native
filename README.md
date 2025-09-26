@@ -104,3 +104,8 @@ As final comments of the teacher, he said:
 # Repository related to the classes
 
 [link](https://github.com/digitalinnovationone/trilha-react-native-flexbox)
+
+
+# Flexbox documentation related to React Native
+
+[link](https://reactnative.dev/docs/flexbox)
