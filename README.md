@@ -90,9 +90,13 @@ And if you have 2 boxes with height of 100 and 1 blue box with flex: 1 configura
 
 The default value of this style configuration is column, but you canchange to "row":
 
-![flex direction column](images/flex-direction-row.png)
+![flex direction row](images/flex-direction-row.png)
 
 A comment: "column" is the defalt value to React Native, but for web the default value is "row".
+
+The result of do not set this configuration or set the value to "column" is exactly you expect:
+
+![flex direction column](images/flex-direction-column.png)
 
 
 # Final comments
