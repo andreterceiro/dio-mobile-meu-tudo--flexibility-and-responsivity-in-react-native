@@ -98,6 +98,10 @@ The result of do not set this configuration or set the value to "column" is exac
 
 ![flex direction column](images/flex-direction-column.png)
 
+You also have other values to the configuration flexDirection, as the weird "column-reverse", see:
+
+![flex direction column reverse](images/flex-direction-column-reverse.png)
+
 
 # Final comments
 
