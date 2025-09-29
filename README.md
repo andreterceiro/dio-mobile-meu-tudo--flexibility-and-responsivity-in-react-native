@@ -106,6 +106,8 @@ A comment: this thing is a little confusing, but pay attention: **the configurat
 
 You also have the weird value "row-reverse".
 
+Please remember: flexDirection needs to be applied to the **container**, not to the internal items (like "caixaGreen", "caixaRed" or "caixaBlue").
+
 
 # Final comments
 
