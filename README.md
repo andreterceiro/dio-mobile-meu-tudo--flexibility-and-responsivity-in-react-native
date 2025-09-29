@@ -86,7 +86,11 @@ And if you have 2 boxes with height of 100 and 1 blue box with flex: 1 configura
 ![3 boxes](images/3-boxes.png)
 
 
+# FlexDirection
 
+The default value of this style configuration is column, but you canchange to "row":
+
+![flex direction column](images/flex-direction-row.png)
 
 
 
