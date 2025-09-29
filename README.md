@@ -92,6 +92,7 @@ The default value of this style configuration is column, but you canchange to "r
 
 ![flex direction column](images/flex-direction-row.png)
 
+A comment: "column" is the defalt value to React Native, but for web the default value is "row".
 
 
 # Final comments
