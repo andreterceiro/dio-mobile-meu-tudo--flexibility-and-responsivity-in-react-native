@@ -102,6 +102,8 @@ You also have other values to the configuration flexDirection, as the weird "col
 
 ![flex direction column reverse](images/flex-direction-column-reverse.png)
 
+A comment: this thing is a little confusing, but pay attention: **the configuration name uses camel case to separe the words ("flexDirection"), but in the value of the configuration the words are separeted by a dash ("column-reverse")**.
+
 
 # Final comments
 
