@@ -131,6 +131,12 @@ Please pay attention that the name of the configuration property separes words i
 
 ![justifyContent: flex-start, flexDirection: column](images/justify-content-flex-start-flex-direction-column.png)
 
+
+### justifyContent: flex-start and flexDirection: row
+
+![justifyContent: flex-start, flexDirection: row](images/justify-content-flex-start-flex-direction-row.png)
+
+
 # Final comments
 
 As final comments of the teacher, he said:
