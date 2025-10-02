@@ -137,6 +137,13 @@ Please pay attention that the name of the configuration property separes words i
 ![justifyContent: flex-start, flexDirection: row](images/justify-content-flex-start-flex-direction-row.png)
 
 
+### Other configurations with a little obviuos behaviour
+
+- justifyContent: 'flex-end';
+- flexDirection: 'row-reverse';
+- flexDirection: 'column-reverse';
+
+
 # Final comments
 
 As final comments of the teacher, he said:
