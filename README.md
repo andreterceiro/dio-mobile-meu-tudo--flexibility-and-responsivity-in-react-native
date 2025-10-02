@@ -158,6 +158,13 @@ In this case you will have no space between an element and the right and left pa
 ![justifyContent: 'space-between'](images/justify-content-space-between.png)
 
 
+## justifyContent: 'space-evenly'
+
+Sincerilly in this case I did not understand very well.
+
+![justifyContent: 'space-evenly'](images/justify-content-space-evenly.png)
+
+
 # Final comments
 
 As final comments of the teacher, he said:
