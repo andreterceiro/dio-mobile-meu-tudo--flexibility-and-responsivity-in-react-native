@@ -155,6 +155,8 @@ You will have a equal space between every element.
 
 In this case you will have no space between an element and the right and left part of the app, only between the elements.
 
+![justifyContent: 'space-between'](images/justify-content-space-between.png)
+
 
 # Final comments
 
