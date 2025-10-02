@@ -115,7 +115,11 @@ The alignment done by **justifyContent** stylization property is linked to the d
 
 Aligning content in a row:
 
-![justify content center flex direction row](images/justify-content-center-flex-direction-row.png)
+![justifyContent: center, flexDirection: row](images/justify-content-center-flex-direction-row.png)
+
+Aligning content in a column:
+
+![justifyContent: center, flexDirection column](images/justify-content-center-flex-direction-column.png)
 
 
 # Final comments
