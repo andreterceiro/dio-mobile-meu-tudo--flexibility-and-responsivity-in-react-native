@@ -127,6 +127,10 @@ Aligning content in a column:
 Please pay attention that the name of the configuration property separes words in camel case and the value separes words by dashes.
 
 
+### justifyContent: flex-start and flexDirection: column
+
+![justifyContent: flex-start, flexDirection: column](images/justify-content-flex-start-flex-direction-column.png)
+
 # Final comments
 
 As final comments of the teacher, he said:
