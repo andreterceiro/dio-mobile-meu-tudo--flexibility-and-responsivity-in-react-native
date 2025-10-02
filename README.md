@@ -119,7 +119,7 @@ Aligning content in a row:
 
 Aligning content in a column:
 
-![justifyContent: center, flexDirection column](images/justify-content-flex-start.png)
+![justifyContent: center, flexDirection column](images/justify-content-center-flex-direction-column.png)
 
 
 ## justifyContent: flex-start
