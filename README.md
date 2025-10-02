@@ -119,7 +119,12 @@ Aligning content in a row:
 
 Aligning content in a column:
 
-![justifyContent: center, flexDirection column](images/justify-content-center-flex-direction-column.png)
+![justifyContent: center, flexDirection column](images/justify-content-flex-start.png)
+
+
+## justifyContent: flex-start
+
+Please pay attention that the name of the configuration property separes words in camel case and the value separes words by dashes.
 
 
 # Final comments
