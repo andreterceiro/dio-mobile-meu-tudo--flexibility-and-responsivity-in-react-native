@@ -109,6 +109,11 @@ You also have the weird value "row-reverse".
 Please remember: flexDirection needs to be applied to the **container**, not to the internal items (like "caixaGreen", "caixaRed" or "caixaBlue").
 
 
+# Justify content
+
+The alignment done by **justifyContent** stylization property is linked to the direction selected with the **flexDirection** stylization property.
+
+
 # Final comments
 
 As final comments of the teacher, he said:
