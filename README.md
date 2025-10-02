@@ -113,6 +113,10 @@ Please remember: flexDirection needs to be applied to the **container**, not to 
 
 The alignment done by **justifyContent** stylization property is linked to the direction selected with the **flexDirection** stylization property.
 
+Aligning content in a row:
+
+![justify content center flex direction row](images/justify-content-center-flex-direction-row.png)
+
 
 # Final comments
 
