@@ -144,6 +144,11 @@ Please pay attention that the name of the configuration property separes words i
 - flexDirection: 'column-reverse';
 
 
+## justifyContent: 'space-arround'
+
+You will have a equal space between every element.
+
+
 # Final comments
 
 As final comments of the teacher, he said:
