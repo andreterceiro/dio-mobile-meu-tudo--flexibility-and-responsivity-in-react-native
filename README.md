@@ -180,6 +180,8 @@ As final comments of the teacher, he said:
 
 Teacher said that while the 'justifyContent' configuration is linked to the main axis. And he showed this image:
 
+![align items](images/align-items-01.png)
+
 
 # Repository related to the classes
 
