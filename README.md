@@ -192,9 +192,13 @@ If you change the value of the porperty **flexDirection** to column, you invert 
 
 ![align items](images/align-items-03.png)
 
-Is not too hard to understand. See this another example:
+Is not too hard to understand. See this other example:
 
 ![align items](images/align-items-04.png)
+
+Other example:
+
+![align items](images/align-items-05.png)
 
 
 # Repository related to the classes
