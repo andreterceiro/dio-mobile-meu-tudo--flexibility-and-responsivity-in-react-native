@@ -200,6 +200,10 @@ Other example:
 
 ![align items](images/align-items-05.png)
 
+Other example:
+
+![align items](images/align-items-06.png)
+
 
 # Repository related to the classes
 
