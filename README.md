@@ -165,7 +165,7 @@ Sincerilly in this case I did not understand very well.
 ![justifyContent: 'space-evenly'](images/justify-content-space-evenly.png)
 
 
-# Final comments
+# final comments RELATED TO justifyContent
 
 As final comments of the teacher, he said:
 
