@@ -182,6 +182,8 @@ Teacher said that while the 'justifyContent' configuration is linked to the main
 
 ![align items](images/align-items-01.png)
 
+And in the explanation he talked that when we are talking about the main axis, we are talking both of the properties **justifyContent** and **flexDirection**.
+
 
 # Repository related to the classes
 
