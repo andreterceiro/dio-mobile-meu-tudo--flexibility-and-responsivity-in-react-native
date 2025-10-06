@@ -188,6 +188,8 @@ Teacher explained that if the main axis is the "X" axis (flexDirection: row), th
 
 ![align items](images/align-items-02.png)
 
+If you change the value of the porperty **flexDirection** to column, you invert the relation: the main axis will be the "Y" axis and the secondary axis will be the "X" axis.
+
 
 # Repository related to the classes
 
