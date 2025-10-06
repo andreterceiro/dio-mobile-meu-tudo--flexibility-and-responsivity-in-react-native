@@ -204,6 +204,8 @@ Other example:
 
 ![align items](images/align-items-06.png)
 
+Teacher remembered us that we need to add these style configurations in the **father** container.
+
 
 # Repository related to the classes
 
