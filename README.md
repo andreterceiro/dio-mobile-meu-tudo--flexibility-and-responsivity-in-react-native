@@ -204,6 +204,10 @@ Other example:
 
 ![align items](images/align-items-06.png)
 
+Other example:
+
+![align items](images/align-items-07.png)
+
 Teacher remembered us that we need to add these style configurations in the **father** container.
 
 ![style configurations need to be added to the father container](images/align-items--father-container.png)
