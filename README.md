@@ -217,6 +217,8 @@ Teacher remembered us that we need to add these style configurations in the **fa
 
 You can use **alignSelf** to apply a formatting configuration to the item itself (**child**), **not** to the container.
 
+And **alignSelf** acts on the secondary axis;
+
 
 # Repository related to the classes
 
