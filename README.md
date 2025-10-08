@@ -213,6 +213,11 @@ Teacher remembered us that we need to add these style configurations in the **fa
 ![style configurations need to be added to the father container](images/align-items--father-container.png)
 
 
+# alignSelf
+
+You can use **alignSelf** to apply a formatting configuration to the item itself (**child**), **not** to the container.
+
+
 # Repository related to the classes
 
 [link](https://github.com/digitalinnovationone/trilha-react-native-flexbox)
