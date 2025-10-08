@@ -176,7 +176,7 @@ As final comments of the teacher, he said:
 - And that we can have containers and childs.
 
 
-# align-items
+# alignItems / justifyContent
 
 Teacher said that while the 'justifyContent' configuration is linked to the main axis. And he showed this image:
 
