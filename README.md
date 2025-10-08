@@ -217,7 +217,11 @@ Teacher remembered us that we need to add these style configurations in the **fa
 
 You can use **alignSelf** to apply a formatting configuration to the item itself (**child**), **not** to the container.
 
-And **alignSelf** acts on the secondary axis;
+And **alignSelf** acts on the secondary axis.
+
+See an example:
+
+![align self 01](images/align-self-01.png)
 
 
 # Repository related to the classes
