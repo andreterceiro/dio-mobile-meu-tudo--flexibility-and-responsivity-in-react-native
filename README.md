@@ -223,6 +223,12 @@ See an example:
 
 ![align self 01](images/align-self-01.png)
 
+Talking about the next example, think calmly. It is easy:
+
+**Main axis** and **container**:
+
+- flexDirection: column;
+- justifyContent: center (center in Y axis, not in X axis)
 
 # Repository related to the classes
 
