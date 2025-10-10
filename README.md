@@ -246,6 +246,8 @@ In other words:
 
 ![example 1 - explanation 1](images/example-1-explanation-1.png)
 
+![example 1 - explanation 2](images/example-1-explanation-2.png)
+
 
 # Repository related to the classes
 
