@@ -236,6 +236,15 @@ Talking about the next examples, think calmly. It is easy:
 - alignSelf: center (**red box**);
 - alignSelf: flex-start (**blue box**).
 
+In other words:
+
+- To the container of all items is applied "flexDirection" and "justifyContent";
+- To all childs is applied "alignItems";
+- But the red box have a specific alignment configuration through "alignSelf";
+- Same to to the blue box;
+- The green box does noe have a particular alignment configuration.
+
+
 # Repository related to the classes
 
 [link](https://github.com/digitalinnovationone/trilha-react-native-flexbox)
