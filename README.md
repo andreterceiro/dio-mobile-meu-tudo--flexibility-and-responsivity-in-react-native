@@ -244,6 +244,8 @@ In other words:
 - Same to to the blue box;
 - The green box does noe have a particular alignment configuration.
 
+![example 1 - explanation 1](images/example-1-explanation-1.png)
+
 
 # Repository related to the classes
 
