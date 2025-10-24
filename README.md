@@ -255,6 +255,8 @@ With **flexWrap** you can wrap a content if necessary. See, without:
 
 ![without flexWrap](images/without-flex-wrap.png)
 
+As you could see the content was inserted in the end of the line and you could see only a part of the last box.
+
 
 # Repository related to the classes
 
