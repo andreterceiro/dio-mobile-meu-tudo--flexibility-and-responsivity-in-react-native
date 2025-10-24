@@ -257,6 +257,10 @@ With **flexWrap** you can wrap a content if necessary. See, without:
 
 As you could see the content was inserted in the end of the line and you could see only a part of the last box.
 
+But if you insert **flexWrap: 'wrap'** (the default value is **nowrap**) in the styling configuration, the box will appear in the next line (row).
+
+![with flexWrap: 'wrap'](images/with-flex-wrap-wrap.png)
+
 
 # Repository related to the classes
 
