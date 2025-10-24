@@ -55,7 +55,7 @@ And if you remove "flex: 1" from the style configuration of the container?
 
 ![removing flex: 1 of the container](images/removing-flex-1-of-the-container.png)
 
-Note: as you could see, the external container have a purple border **in this test** (not early).
+Note: as you could see, the external container have a purple border **in this test**.
 
 And you can also insert "flex: 1" in one of the boxes:
 
