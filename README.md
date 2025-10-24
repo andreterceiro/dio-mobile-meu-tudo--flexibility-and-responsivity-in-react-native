@@ -238,7 +238,7 @@ Talking about the next examples, think calmly. It is easy:
 
 In other words:
 
-- To the container of all items is applied "flexDirection" and "justifyContent";
+- To the container of all items are applied "flexDirection" and "justifyContent";
 - To all childs is applied "alignItems";
 - But the red box have a specific alignment configuration through "alignSelf";
 - Same to to the blue box;
