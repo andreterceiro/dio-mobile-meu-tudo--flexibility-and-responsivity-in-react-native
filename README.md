@@ -249,6 +249,13 @@ In other words:
 ![example 1 - explanation 2](images/example-1-explanation-2.png)
 
 
+# FlexWrap
+
+With **flexWrap** you can wrap a content if necessary. See, without:
+
+![without flexWrap](images/without-flex-wrap.png)
+
+
 # Repository related to the classes
 
 [link](https://github.com/digitalinnovationone/trilha-react-native-flexbox)
