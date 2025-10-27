@@ -271,6 +271,10 @@ Teacher said that we can use a **<ScrollView />** if we need the component in th
 - Use it in th father container;
 - It determines how the elements will be positioned in the secondary axis;
 
+In this example the elements will be centered in the Y axis:
+
+![centering elements in Y axis](images/align-content-1.png)
+
 
 # Repository related to the classes
 
