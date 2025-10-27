@@ -279,6 +279,10 @@ if you remove **flexWrap** from the styling configuration, **alignContent** will
 
 ![without flexWrap - no effect](images/without-flex-wrap--no-effect.png)
 
+Another example - with **flex-start** value:
+
+![alignContent with flex-start](images/align-content--flex-start.png)
+
 
 # Repository related to the classes
 
