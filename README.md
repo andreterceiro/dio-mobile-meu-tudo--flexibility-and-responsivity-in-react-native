@@ -297,6 +297,10 @@ Note:
 - **flexBasis** is applied to the element;
 - **flexDirection** (**important** to **flexBasis**) is applied to the container.
 
+With **flexDirection** equals to "**row**" in the container:
+
+![flexBasis with flexDirection equals to row in the container](images/flexBasis--flexDirection-equals-to-row-in-the-container.png)
+
 
 # Repository related to the classes
 
