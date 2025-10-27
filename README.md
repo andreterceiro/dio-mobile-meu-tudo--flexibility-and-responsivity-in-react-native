@@ -305,7 +305,10 @@ With **flexDirection** equals to "**row**" in the container:
 
 ![flexBasis with flexDirection equals to column in the container](images/flexBasis--flexDirection-equals-to-column-in-the-container.png)
 
-*OBS:** In the first example the value of **flexBasis** is 150 and in the second example the value is 50.
+*OBS:** 
+
+- In the first example the value of **flexBasis** is 150 and in the second example the value is 50=;
+- The default value of **flexDirection** is **column**.
 
 
 # Repository related to the classes
