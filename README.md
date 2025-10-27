@@ -307,8 +307,13 @@ With **flexDirection** equals to "**row**" in the container:
 
 *OBS:** 
 
-- In the first example the value of **flexBasis** is 150 and in the second example the value is 50=;
+- In the first example the value of **flexBasis** is 150 and in the second example the value is 50;
 - The default value of **flexDirection** is **column**.
+
+
+# flexGrow
+
+**flexGrow** is applied also to the children element.
 
 
 # Repository related to the classes
