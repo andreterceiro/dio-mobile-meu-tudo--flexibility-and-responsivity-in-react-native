@@ -292,6 +292,10 @@ Another example - with **flex-end** value:
 
 Change the length of a element based on the **flexDirection**.
 
+Note:
+
+- **flexBasis** is applied to the element;
+
 
 # Repository related to the classes
 
