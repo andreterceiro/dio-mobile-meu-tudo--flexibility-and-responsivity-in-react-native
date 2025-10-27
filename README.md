@@ -249,7 +249,7 @@ In other words:
 ![example 1 - explanation 2](images/example-1-explanation-2.png)
 
 
-# FlexWrap
+# flexWrap
 
 With **flexWrap** you can wrap a content if necessary. See, without:
 
@@ -264,7 +264,7 @@ But if you insert **flexWrap: 'wrap'** (the default value is **nowrap**) in the 
 Teacher said that we can use a **<ScrollView />** if we need the component in the same line or column if we use **FlexWrap**.
 
 
-# AlignContent
+# alignContent
 
 - Please do not think that is the same of **AlignItems**;
 - Use it wth **FlexWrap**;
@@ -274,6 +274,10 @@ Teacher said that we can use a **<ScrollView />** if we need the component in th
 In this example the elements will be centered in the Y axis:
 
 ![centering elements in Y axis](images/align-content-1.png)
+
+if you remove **flexWrap** from the styling configuration, **alignContent** will have no effect:
+
+![without flexWrap - no effect](images/without-flex-wrap--no-effect.png)
 
 
 # Repository related to the classes
