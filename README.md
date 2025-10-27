@@ -288,6 +288,11 @@ Another example - with **flex-end** value:
 ![alignContent with flex-end](images/align-content--flex-end.png)
 
 
+# flexBasis
+
+Change the length of a element based on the **flexDirection**.
+
+
 # Repository related to the classes
 
 [link](https://github.com/digitalinnovationone/trilha-react-native-flexbox)
