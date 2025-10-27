@@ -267,6 +267,7 @@ Teacher said that we can use a **<ScrollView />** if we need the component in th
 # AlignContent
 
 - Please do not think that is the same of **AlignItems**;
+- Use it wth **FlexWrap**;
 
 
 # Repository related to the classes
