@@ -301,6 +301,10 @@ With **flexDirection** equals to "**row**" in the container:
 
 ![flexBasis with flexDirection equals to row in the container](images/flexBasis--flexDirection-equals-to-row-in-the-container.png)
 
+With **flexDirection** equals to "**row**" in the container:
+
+![flexBasis with flexDirection equals to column in the container](images/flexBasis--flexDirection-equals-to-column-in-the-container.png)
+
 
 # Repository related to the classes
 
