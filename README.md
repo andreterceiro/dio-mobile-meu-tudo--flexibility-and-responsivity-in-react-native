@@ -264,6 +264,11 @@ But if you insert **flexWrap: 'wrap'** (the default value is **nowrap**) in the 
 Teacher said that we can use a **<ScrollView />** if we need the component in the same line or column if we use **FlexWrap**.
 
 
+# AlignContent
+
+- Please do not think that is the same of **AlignItems**;
+
+
 # Repository related to the classes
 
 [link](https://github.com/digitalinnovationone/trilha-react-native-flexbox)
