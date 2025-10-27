@@ -283,6 +283,10 @@ Another example - with **flex-start** value:
 
 ![alignContent with flex-start](images/align-content--flex-start.png)
 
+Another example - with **flex-end** value:
+
+![alignContent with flex-end](images/align-content--flex-end.png)
+
 
 # Repository related to the classes
 
