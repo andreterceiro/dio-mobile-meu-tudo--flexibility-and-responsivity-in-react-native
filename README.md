@@ -321,6 +321,10 @@ Another exemple:
 
 ![flexGrow - another example](images/flexGrow-another-example.png)
 
+Example with **flexGrow** in the blue and in the green boxes:
+
+![flexGrow in 2 boxes](images/flexGrow-in-2-boxes.png)
+
 
 # Repository related to the classes
 
