@@ -268,7 +268,7 @@ Teacher said that we can use a **<ScrollView />** if we need the component in th
 
 - Please do not think that is the same of **AlignItems**;
 - Use it wth **FlexWrap**;
-
+- Use it in th father container;
 
 # Repository related to the classes
 
