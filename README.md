@@ -313,7 +313,9 @@ With **flexDirection** equals to "**row**" in the container:
 
 # flexGrow
 
-**flexGrow** is applied also to the children element.
+**flexGrow** is applied also to the children element. With this configuration (value equals to 1) the component will grow until it is possible, see:
+
+![flexGrow = 1](images/flexGrow-equals-to-1.png)
 
 
 # Repository related to the classes
