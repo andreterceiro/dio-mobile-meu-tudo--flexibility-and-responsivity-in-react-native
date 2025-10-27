@@ -261,6 +261,8 @@ But if you insert **flexWrap: 'wrap'** (the default value is **nowrap**) in the 
 
 ![with flexWrap: 'wrap'](images/with-flex-wrap-wrap.png)
 
+Teacher said that we can use a **<ScrollView />** if we need the component in the same line or column if we use **FlexWrap**.
+
 
 # Repository related to the classes
 
