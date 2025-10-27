@@ -317,6 +317,10 @@ With **flexDirection** equals to "**row**" in the container:
 
 ![flexGrow = 1](images/flexGrow-equals-to-1.png)
 
+Another exemple:
+
+![flexGrow - another example](images/flexGrow-another-example.png)
+
 
 # Repository related to the classes
 
