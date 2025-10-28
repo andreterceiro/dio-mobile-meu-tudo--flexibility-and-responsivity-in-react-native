@@ -336,6 +336,10 @@ Please see the border of the green box in the example in the "Y" axis:
 
 ![with flexShrink - Y axis](images/with-flexShrink-y-axis.png)
 
+Next example, with **flexShrink** in two boxes - equal height:
+
+![with flexShrink - Y axis - 2 boxes](images/with-flexShrink-y-axis-2-boxes.png)
+
 
 # Repository related to the classes
 
