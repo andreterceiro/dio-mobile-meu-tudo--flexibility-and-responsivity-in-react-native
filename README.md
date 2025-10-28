@@ -26,9 +26,9 @@ The outer **View** component has 2 childrens, a **Text** and another **View**. T
 
 # Simple example with two boxes
 
-Please see this simple example. In this example teacher draw 2 boxes in the screen, one red and another blue. These boxes were aligned vertically.
+Please see this simple example. In this example teacher draw 2 boxes in the screen, one red and one blue. These boxes were aligned vertically.
 
-See that the boxes was drawn with <View /> components. Please remember the basic structure. We have to define a function first (one of each box). Part of the code of this example, defining one ot the two functions:
+See that the boxes was drawn with **View** components. Please remember the basic structure. We have to define a function first (one of each box). Part of the code of this example, defining one ot the two functions:
 
 ![example with two boxes](images/example-with-two-boxes.png)
 
