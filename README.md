@@ -340,6 +340,10 @@ Next example, with **flexShrink** in two boxes - equal height:
 
 ![with flexShrink - Y axis - 2 boxes](images/with-flexShrink-y-axis-2-boxes.png)
 
+See the next interesting example. In this example, **caixaBlue** have **flexShrink** = 1 aand have no height left in "Y" after calculating the height of **caixaRed** and **caixaBlue**.
+
+![with flexShrink - without a space in Y axis (height)](images/flexShrink-without-a-space.png)
+
 
 # Repository related to the classes
 
