@@ -330,6 +330,10 @@ Example with **flexGrow** in the blue and in the green boxes:
 
 With **flexShrink** the component will be reduced to the total size of the axis.
 
+Please see the border of the green box in the example in the "Y" axis:
+
+![with flexShrink - Y axis](images/with-flexShrink-y-axis.png)
+
 
 # Repository related to the classes
 
