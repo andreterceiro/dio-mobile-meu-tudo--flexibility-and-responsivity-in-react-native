@@ -326,6 +326,11 @@ Example with **flexGrow** in the blue and in the green boxes:
 ![flexGrow in 2 boxes](images/flexGrow-in-2-boxes.png)
 
 
+# flexShrink
+
+With **flexShrink** the component will be reduced to the total size of the axis.
+
+
 # Repository related to the classes
 
 [link](https://github.com/digitalinnovationone/trilha-react-native-flexbox)
